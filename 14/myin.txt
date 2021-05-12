@@ -1,0 +1,106 @@
+10
+18
+Charleston Little_Rock
+Lisbon Boise
+Halifax Yellowknife
+Des_Moines Trenton
+Jefferson_City Charleston
+Sofia Des_Moines
+Toronto Tallahassee
+Riga Sofia
+Andorra_la_Vella Kyiv
+Little_Rock London
+Washington Riga
+Trenton Halifax
+London Chisinau
+Chisinau Andorra_la_Vella
+Tallahassee Jefferson_City
+Kyiv Lisbon
+Providence Washington
+Yellowknife Toronto
+5
+Luxembourg Pierre
+Salem Charlottetown
+Pierre Brussels
+Brussels Salem
+Astana Luxembourg
+4
+Santa_Fe Sofia
+Belgrade Santa_Fe
+Sofia Pierre
+Moscow Belgrade
+6
+Washington Halifax
+Bern Andorra_la_Vella
+Belgrade Warsaw
+Halifax Bern
+Warsaw Washington
+Montgomery Belgrade
+15
+Madison Brussels
+Podgorica Bismarck
+Bismarck Juneau
+Brussels Boise
+Edmonton Madison
+Honolulu Jackson
+Stockholm Honolulu
+Rome Bucharest
+Boise Bern
+Raleigh Edmonton
+Frankfort Raleigh
+Prague Podgorica
+Bucharest Prague
+Jackson Frankfort
+Juneau Stockholm
+6
+Baku Bismarck
+Brussels Tallahassee
+Chisinau Pierre
+Tallahassee Baku
+Bismarck Trenton
+Trenton Chisinau
+16
+Concord Podgorica
+Harrisburg Helsinki
+Ottawa Athens
+Sofia Toronto
+Astana Sofia
+Tbilisi Dublin
+Monaco Tbilisi
+Helsinki Concord
+Sacramento Frankfort
+Dublin Ottawa
+Podgorica Astana
+Athens Des_Moines
+Amsterdam Salt_Lake_City
+Des_Moines Harrisburg
+Frankfort Amsterdam
+Toronto Sacramento
+3
+Luxembourg Skopje
+Sacramento Luxembourg
+Skopje Lansing
+16
+Albany Columbus
+Lansing Sacramento
+Ankara Indianapolis
+Oslo Boise
+Columbus Stockholm
+Boise Madison
+Harrisburg Ankara
+Kyiv Saint_Johns
+Springfield Lansing
+Sacramento Albany
+Indianapolis Baton_Rouge
+Tirana Oslo
+Stockholm Tirana
+Madison Monaco
+Baton_Rouge Kyiv
+Monaco Harrisburg
+6
+Iqaluit Honolulu
+San_Marino Vienna
+Saint_Paul San_Marino
+Honolulu Saint_Paul
+Lansing Reykjavik
+Reykjavik Iqaluit
